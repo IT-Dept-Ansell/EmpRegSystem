@@ -1,0 +1,9 @@
+{
+  "name": "ansell-employee-day-live-registration",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Real-time multi-laptop barcode registration system for Ansell Employee Day 2026",
+  "main": "server.js",
+  "scripts": {"start":"node server.js"},
+  "dependencies": {"express":"^5.1.0","socket.io":"^4.8.1"}
+}
